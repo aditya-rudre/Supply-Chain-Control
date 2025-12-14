@@ -1,4 +1,4 @@
-# 🚚 Predictive Supply Chain Control Tower
+# 🚚 Predictive Supply Chain Control 
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-Data%20Warehouse-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
