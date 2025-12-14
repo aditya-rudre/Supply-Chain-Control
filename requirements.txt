@@ -1,0 +1,8 @@
+numpy<2.0
+pandas
+scipy
+statsmodels
+matplotlib
+seaborn
+streamlit
+plotly>=5.18.0
