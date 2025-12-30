@@ -40,7 +40,7 @@ CREATE TABLE IF NOT EXISTS fact_orders (
     days_scheduled INTEGER,
     days_real INTEGER,
     delivery_status TEXT,
-    order_status TEXT,  -- Added this column
+    order_status TEXT,  
     benefit_per_order REAL,
     sales_amount REAL,
     order_quantity INTEGER,

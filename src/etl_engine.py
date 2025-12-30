@@ -75,7 +75,7 @@ class SupplyChainETL:
             how='left'
         )
 
-        # Fix Dates
+        # Convert date columns to datetime
         df_merged['order_date'] = pd.to_datetime(df_merged['order_date_dateorders'])
         df_merged['shipping_date'] = pd.to_datetime(df_merged['shipping_date_dateorders'])
 
