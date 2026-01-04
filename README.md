@@ -25,9 +25,4 @@ The analysis revealed a critical **process failure in "First Class" shipping** (
    - **Decomposition Tree:** Identifying root causes of delays (Region vs. Shipping Mode).
    - **Gap Analysis:** Visualizing "Promised Days" vs. "Actual Days" to expose operational failures.
 
-## 📊 Dashboard Key Features
-* **Root Cause Analysis:** Interactive drill-down into the 35% global late risk.
-* **Operational Insight:** Identified that **First Class** shipping fails 99% of the time because the actual transit time (2 days) exceeds the promised time (1 day).
-* **Adjusted Risk Logic:** implemented a DAX-based "Grace Period" scenario that re-evaluates risk with a +1 day buffer.
-
 Author: Aditya Rudre
